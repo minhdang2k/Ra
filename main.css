@@ -1,0 +1,129 @@
+.auth-form {
+
+    margin-left  : 419px;
+    margin-right : 417px;
+    height       : 639px;
+    padding-left : 82px;
+    border       : 1px solid black;
+    border-radius: 5%;
+}
+
+.auth-form_container {
+    padding-right: 70px;
+}
+
+.auth-form_header {
+    display        : flex;
+    align-items    : center;
+    justify-content: space-between;
+    font-size      : 1.3rem;
+    font-weight    : 300;
+}
+
+.auth-form_heading {
+    margin-top: 70px;
+}
+
+.auth-form_close {
+    text-align   : center;
+    margin-top   : -40px;
+    border       : 1px solid white;
+    border-radius: 100%;
+    padding      : 10px;
+    margin-right : 20px;
+    font-size    : 1rem;
+}
+
+.auth-form_form {
+    margin-top: -35px;
+
+}
+
+.auth-form_policy-link {
+    color: blue;
+}
+
+.auth-form_socials_gg {
+    text-align   : center;
+    padding-top  : 5px;
+    margin-left  : 10px;
+    border       : 1px solid grey;
+    height       : 25px;
+    width        : 330px;
+    border-radius: 15px;
+    font-size    : 1.1rem;
+    color        : black;
+    font-weight  : 300;
+}
+
+
+
+.auth-form_socials_ap {
+    text-align           : center;
+    color                : gray;
+    padding-top          : 5px;
+    margin-top           : 10px;
+    border               : 1px solid grey;
+    height               : 25px;
+    width                : 350px;
+    border-radius        : 15px;
+    font-size            : 1.1rem;
+    text-decoration-color: black;
+}
+
+.orr {
+    text-align: center;
+    font-size : 1rem;
+}
+
+.auth-form_group_name {
+    margin-bottom   : 20px;
+    margin-top      : 15px;
+    padding-left    : 10px;
+    height          : 35px;
+    width           : 350px;
+    border-radius   : 20px;
+    padding         : 10px;
+    background-color: lightgray;
+}
+
+.auth-form_group_pass {
+    padding-left    : 10px;
+    height          : 35px;
+    width           : 350px;
+    border-radius   : 20px;
+    padding         : 17px;
+    background-color: lightgray;
+}
+
+.auth-form_input {
+    background-color: lightgray;
+    width           : 330px;
+    margin-top      : 10px;
+    border          : 1px solid lightgray;
+    font-size       : 1.1rem;
+}
+
+.auth-form_aside {
+    padding-top: 20px;
+}
+
+.auth-form_login {
+    text-align      : center;
+    background-color: lightgray;
+    font-size       : 0.9rem;
+    height          : 25px;
+    width           : 350px;
+    border          : 1px solid lightgray;
+    border-radius   : 20px;
+    padding         : 10px;
+    margin-top      : 20px;
+}
+
+.login {
+    margin-top      : 5px;
+    color           : grey;
+    font-size       : 1.rem;
+    border          : lightgray;
+    background-color: lightgray;
+}
